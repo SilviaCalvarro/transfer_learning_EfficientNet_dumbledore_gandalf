@@ -4,4 +4,4 @@ In this project I've tested EfficientNet 50 for classify images of Dumbledore an
 
 And example of Dumbledore data augmentation is the follow:
 
-![alt text](https://github.com/SilviaCalvarro/transfer_learning_EfficientNet_dumbledore_gandalf/tree/main/images)
+![alt text](https://github.com/SilviaCalvarro/transfer_learning_EfficientNet_dumbledore_gandalf/blob/main/images/dumbledore.png)
